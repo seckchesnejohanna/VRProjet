@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: HighlightStrengthInteraction
   m_EditorClassIdentifier: 
   m_Comments: 
-  m_ReadOnly: 1
+  m_ReadOnly: 0
   m_Value:
     m_StateAnimationCurve:
       m_UseConstant: 1
